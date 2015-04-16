@@ -1,0 +1,40 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Software Engineering for Sustainability}{}% 2
+\BOOKMARK [1][-]{section.3}{Compiler}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Compiler and Interpreter}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Semantic Analysis}{section.3}% 5
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Variable Binding}{subsection.3.2}% 6
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Type Checking}{subsection.3.2}% 7
+\BOOKMARK [1][-]{section.4}{Agricultural}{}% 8
+\BOOKMARK [2][-]{subsection.4.1}{Technology Used in Farming}{section.4}% 9
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Greenhouse Smart Water Monitoring System}{subsection.4.1}% 10
+\BOOKMARK [2][-]{subsection.4.2}{Drones Already Used in Farming}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.3}{How Drones Reduced Cost and Increased Growth}{section.4}% 12
+\BOOKMARK [1][-]{section.5}{Case Study : Arena Flowers}{}% 13
+\BOOKMARK [1][-]{section.6}{Emergency Assistance}{}% 14
+\BOOKMARK [1][-]{section.7}{Health Management}{}% 15
+\BOOKMARK [2][-]{subsection.7.1}{Health Management}{section.7}% 16
+\BOOKMARK [1][-]{section.8}{Java}{}% 17
+\BOOKMARK [1][-]{section.9}{Android}{}% 18
+\BOOKMARK [2][-]{subsection.9.1}{Debug}{section.9}% 19
+\BOOKMARK [1][-]{section.10}{DALI}{}% 20
+\BOOKMARK [2][-]{subsection.10.1}{Introduction}{section.10}% 21
+\BOOKMARK [2][-]{subsection.10.2}{DALI Structure}{section.10}% 22
+\BOOKMARK [3][-]{subsubsection.10.2.1}{DALI Power Supply\(DALI PSU\)}{subsection.10.2}% 23
+\BOOKMARK [2][-]{subsection.10.3}{DALI Topology vs IP Topology}{section.10}% 24
+\BOOKMARK [2][-]{subsection.10.4}{DALI Signal}{section.10}% 25
+\BOOKMARK [2][-]{subsection.10.5}{DALI Controller Information}{section.10}% 26
+\BOOKMARK [2][-]{subsection.10.6}{DALI Load Interface Identification}{section.10}% 27
+\BOOKMARK [2][-]{subsection.10.7}{DALI Topology}{section.10}% 28
+\BOOKMARK [2][-]{subsection.10.8}{DALI Power Supply}{section.10}% 29
+\BOOKMARK [2][-]{subsection.10.9}{DALI Technical Characteristics}{section.10}% 30
+\BOOKMARK [2][-]{subsection.10.10}{DALI Transport}{section.10}% 31
+\BOOKMARK [2][-]{subsection.10.11}{Dimmable HF Ballast Control Comparison}{section.10}% 32
+\BOOKMARK [2][-]{subsection.10.12}{DALI Companies and Services}{section.10}% 33
+\BOOKMARK [2][-]{subsection.10.13}{DALI Devices Power Consumption}{section.10}% 34
+\BOOKMARK [2][-]{subsection.10.14}{Dimming Curve}{section.10}% 35
+\BOOKMARK [1][-]{section.11}{Reduced Usage of Pesticide}{}% 36
+\BOOKMARK [1][-]{section.12}{Grey Mould}{}% 37
+\BOOKMARK [1][-]{section.13}{Smart Load Management System}{}% 38
+\BOOKMARK [2][-]{subsection.13.1}{Power Management System}{section.13}% 39
+\BOOKMARK [1][-]{section.14}{Investigation of Load Side Monitoring Methodology}{}% 40

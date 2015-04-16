@@ -1,0 +1,64 @@
+////////////////////////////////////////////
+
+\ref {fig:ForwardBias4}
+
+///////////////////////////////////////////////
+
+\begin{figure}
+	\centering
+		\includegraphics[width=0.5\textwidth]{pic/Multimeter.jpg}
+		\caption {Multimeter }
+	\label{fig:Multimeter}
+\end{figure}
+
+//////////////////////////////////////////////////
+
+\begin{table}
+	\centering
+		\begin{tabular}{|c|c|c|}  
+		
+			\hline
+			List & Result 1 & result 2 \\ \hline
+			Voltage & 5 V  & 10 V  \\ \hline
+			Current & 1mA & 2mA \\ \hline
+			
+			
+		\end{tabular}
+	\caption{Sample table}
+	\label{tab:SampleTable}
+\end{table}
+
+
+////////////////////////////////////////////////////////
+
+///////////////////////////////////////////
+\\ start a new paragraph.
+\\* start a new line but not a new paragraph.
+\- OK to hyphenate a word here.
+\cleardoublepage flush all material and start a new page, start new odd numbered page.
+\clearpage plush all material and start a new page.
+\hyphenation enter a sequence pf exceptional hyphenations.
+\linebreak allow to break the line here.
+\newline request a new line.
+\newpage request a new page.
+\nolinebreak no line break should happen here.
+\nopagebreak no page break should happen here.
+\pagebreak encourage page break.
+
+///////////////////////////////////////////////
+
+Go to insert and the rest is a walk in the park.
+\begin{lstlisting}
+ place your source code here
+ \end{lstlisting}
+\lstinputlisting{filename.java}
+
+////////////////////////////////////////////////
+\newline
+
+////////////////////////////////////////////////
+\begin{enumerate}
+   \item The first item
+   \item The second item
+   \item The third etc \ldots
+ \end{enumerate}
